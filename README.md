@@ -1,3 +1,1 @@
-## NEVER STOP EXPLORING
-
-<img src="beer.jpg">
+<img src="beer.jpg" width="350">
